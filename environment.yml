@@ -1,4 +1,4 @@
-name: transformers
+name: orconvqa
 channels:
   - pytorch
   - conda-forge
@@ -352,4 +352,3 @@ dependencies:
     - ujson==4.0.1
     - wasabi==0.2.2
     - websocket-client==0.57.0
-prefix: /net/home/chenqu/anaconda3/envs/transformers
