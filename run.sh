@@ -25,10 +25,11 @@ python3 train_pipeline.py \
     --save_steps=5000 \
     --overwrite_output_dir=False \
     --eval_all_checkpoints=False \
-    --fp16=True \
+    --fp16=False \
     --retrieve_checkpoint=$DATADIR/retriever_checkpoint/checkpoint-5917 \
-    --retriever_tokenizer_dir=$DATADIR/retriever_checkpoint/ \
+    --retrieve_tokenizer_dir=$DATADIR/retriever_checkpoint/ \
     --reader_tokenizer_dir=$DATADIR/pipeline_checkpoint/reader/ \
+    --reader_model_name_or_path=$DATADIR/pipeline_checkpoint/checkpoint-45000/reader/
     --top_k_for_retriever=100 \
     --use_retriever_prob=True \
     --qa_loss_factor=1.0 \
@@ -37,4 +38,50 @@ python3 train_pipeline.py \
     --include_first_for_retriever=True \
     --use_rerank_prob=True \
     --early_loss=True \
-    --max_answer_length=40
+    --max_answer_length=40 \
+    --reader_cache_dir=None \
+    --reacher_tokenizer_name=None
+    
+    
+    
+
+--train_file=ciir.cs.umass.edu/downloads/ORConvQA/preprocessed/train.txt \
+--dev_file=ciir.cs.umass.edu/downloads/ORConvQA/preprocessed/dev.txt  \
+--test_file=ciir.cs.umass.edu/downloads/ORConvQA/preprocessed/test.txt  \
+--orig_dev_file=ciir.cs.umass.edu/downloads/ORConvQA/quac_format/dev.txt  \
+--orig_test_file=ciir.cs.umass.edu/downloads/ORConvQA/quac_format/test.txt  \
+--qrels=ciir.cs.umass.edu/downloads/ORConvQA/qrels.txt  \
+--blocks_path=ciir.cs.umass.edu/downloads/ORConvQA/all_blocks.txt  \
+--passage_reps_path=ciir.cs.umass.edu/downloads/ORConvQA/passage_reps.pkl  \
+--passage_ids_path=ciir.cs.umass.edu/downloads/ORConvQA/passage_ids.pkl  \
+--output_dir=ciir.cs.umass.edu/downloads/ORConvQA/pipeline_checkpoint  \
+--best_global_step=45000 \
+--load_small=False \
+--history_num=6 \
+--do_train=False \
+--do_eval=False \
+--do_test=True \
+--per_gpu_train_batch_size=2 \
+--per_gpu_eval_batch_size=4 \
+--learning_rate=5e-5 \
+--num_train_epochs=3.0 \
+--logging_steps=5 \
+--save_steps=5000 \
+--overwrite_output_dir=False \
+--eval_all_checkpoints=False \
+--fp16=False \
+--retrieve_checkpoint=ciir.cs.umass.edu/downloads/ORConvQA/retriever_checkpoint/checkpoint-5917 \
+--retrieve_tokenizer_dir=ciir.cs.umass.edu/downloads/ORConvQA/retriever_checkpoint/ \
+--reader_tokenizer_dir=ciir.cs.umass.edu/downloads/ORConvQA/pipeline_checkpoint/reader/ \
+--reader_cache_dir='' \
+--reader_tokenizer_name=ciir.cs.umass.edu/downloads/ORConvQA/pipeline_checkpoint/reader/ \
+--reader_model_name_or_path=ciir.cs.umass.edu/downloads/ORConvQA/pipeline_checkpoint/checkpoint-45000/reader/ \
+--top_k_for_retriever=100 \
+--use_retriever_prob=True \
+--qa_loss_factor=1.0 \
+--retrieval_loss_factor=1.0 \
+--top_k_for_reader=5 \
+--include_first_for_retriever=True \
+--use_rerank_prob=True \
+--early_loss=True \
+--max_answer_length=40

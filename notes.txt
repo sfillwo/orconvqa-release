@@ -1,0 +1,7 @@
+Failed to install pytrec_eval on Mac 11.6.6
+
+brew install gcc
+
+CC='gcc-11' CXX='g++-11' pip install pytrec_eval
+
+Worked!
