@@ -850,17 +850,22 @@ if args.fp16:
 
 logger.info(f'loading passage ids from {args.passage_ids_path}')
 with open(args.passage_ids_path, 'rb') as handle:
-    passage_ids = pkl.load(handle)
+    passage_ids = json.load(handle)
 
 logger.info(f'loading passage reps from {args.passage_reps_path}')
 with open(args.passage_reps_path, 'rb') as handle:
     passage_reps = pkl.load(handle)
 
 logger.info('constructing passage faiss_index')
-faiss_res = faiss.StandardGpuResources() 
-index = faiss.IndexFlatIP(args.proj_size)
-index.add(passage_reps)
-gpu_index = faiss.index_cpu_to_gpu(faiss_res, 1, index)
+if torch.cuda.is_available():
+    faiss_res = faiss.StandardGpuResources()
+    index = faiss.IndexFlatIP(args.proj_size)
+    index.add(passage_reps)
+    gpu_index = faiss.index_cpu_to_gpu(faiss_res, 1, index)
+else:
+    index = faiss.IndexFlatIP(args.proj_size)
+    index.add(passage_reps)
+
 
 # logger.info(f'loading all blocks from {args.blocks_path}')
 # with open(args.blocks_path, 'rb') as handle:

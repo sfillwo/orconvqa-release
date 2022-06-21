@@ -9,7 +9,7 @@ python3 train_pipeline.py \
     --qrels=$DATADIR/qrels.txt.gz \
     --blocks_path=$DATADIR/all_blocks.txt.gz \
     --passage_reps_path=$DATADIR/passage_reps.pkl.gz \
-    --passage_ids_path=$DATADIR/passage_ids.pkl.gz \
+    --passage_ids_path=$DATADIR/passage_ids_list.json \
     --output_dir=$DATADIR/pipeline_checkpoint \
     --best_global_step=45000 \
     --load_small=False \
@@ -53,7 +53,7 @@ python3 train_pipeline.py \
 --qrels=ciir.cs.umass.edu/downloads/ORConvQA/qrels.txt  \
 --blocks_path=ciir.cs.umass.edu/downloads/ORConvQA/all_blocks.txt  \
 --passage_reps_path=ciir.cs.umass.edu/downloads/ORConvQA/passage_reps.pkl  \
---passage_ids_path=ciir.cs.umass.edu/downloads/ORConvQA/passage_ids.pkl  \
+--passage_ids_path=ciir.cs.umass.edu/downloads/ORConvQA/passage_ids_list.json  \
 --output_dir=ciir.cs.umass.edu/downloads/ORConvQA/pipeline_checkpoint  \
 --best_global_step=45000 \
 --load_small=False \
