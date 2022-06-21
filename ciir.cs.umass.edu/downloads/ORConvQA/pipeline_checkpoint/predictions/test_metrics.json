@@ -1,0 +1,1 @@
+{"unfiltered_f1": 0.13449046265191913, "f1": 0.12452587894093371, "HEQ": 0.10783608914450037, "DHEQ": 0.0, "yes/no": 0.2516175413371675, "followup": 0.19769949676491733, "unanswerable_acc": 0.34782608695652173, "rerank_mrr": 0.28, "rerank_recall": 0.28, "retriever_mrr": 0.10266666666666666, "retriever_recall": 0.28}

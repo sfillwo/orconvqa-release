@@ -1,0 +1,1052 @@
+{
+    "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#0": [
+        {
+            "text": "On 7 October 2006, Politkovskaya was found shot dead in the elevator of her apartment block in central Moscow.",
+            "start_logit": -9.900445938110352,
+            "end_logit": -9.769844055175781,
+            "retrieval_logit": -10.525667190551758,
+            "retriever_prob": 0.7413644194602966,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#0*7588632@2"
+        },
+        {
+            "text": "One of her last investigations was into the alleged mass poisoning of Chechen schoolchildren by a strong and unknown chemical substance which incapacitated them for many months.",
+            "start_logit": 0.9746612906455994,
+            "end_logit": 0.028817787766456604,
+            "retrieval_logit": -2.1994690895080566,
+            "retriever_prob": 0.18920131027698517,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#0*C_dc1322eff60a4a36971896db9eccb90c_1@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -6.535480976104736,
+            "end_logit": -6.733922481536865,
+            "retrieval_logit": -9.250157356262207,
+            "retriever_prob": 0.0290487390011549,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#0*10617746@2"
+        },
+        {
+            "text": "On the evening of 6 October 1949, Ivinskaya was arrested at her apartment by the KGB.",
+            "start_logit": -9.786005973815918,
+            "end_logit": -10.172285079956055,
+            "retrieval_logit": -10.598852157592773,
+            "retriever_prob": 0.020691649988293648,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#0*4667@11"
+        },
+        {
+            "text": "She was found shot dead in the elevator of her apartment block in central Moscow.",
+            "start_logit": -9.328545570373535,
+            "end_logit": -9.686111450195312,
+            "retrieval_logit": -10.514883995056152,
+            "retriever_prob": 0.01969258487224579,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#0*16901482@0"
+        }
+    ],
+    "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#1": [
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -9.573531150817871,
+            "end_logit": -9.814501762390137,
+            "retrieval_logit": -10.528892517089844,
+            "retriever_prob": 0.6273351907730103,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#1*7588632@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -2.098051071166992,
+            "end_logit": -1.862962245941162,
+            "retrieval_logit": -5.511819362640381,
+            "retriever_prob": 0.2869882881641388,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#1*C_dc1322eff60a4a36971896db9eccb90c_1@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -7.1073994636535645,
+            "end_logit": -7.370807647705078,
+            "retrieval_logit": -9.820847511291504,
+            "retriever_prob": 0.039867009967565536,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#1*10617746@2"
+        },
+        {
+            "text": "Gorbachev told the Russian news agency Interfax about this assassination:",
+            "start_logit": -8.36644172668457,
+            "end_logit": -10.176849365234375,
+            "retrieval_logit": -10.537308692932129,
+            "retriever_prob": 0.02316303178668022,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#1*16901482@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.425877571105957,
+            "end_logit": -10.530501365661621,
+            "retrieval_logit": -10.569578170776367,
+            "retriever_prob": 0.02264735847711563,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#1*7588632@6"
+        }
+    ],
+    "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#2": [
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -9.889538764953613,
+            "end_logit": -10.051502227783203,
+            "retrieval_logit": -10.599570274353027,
+            "retriever_prob": 0.6159247159957886,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#2*7588632@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -0.20297856628894806,
+            "end_logit": -0.005914048291742802,
+            "retrieval_logit": -3.030073642730713,
+            "retriever_prob": 0.2883930206298828,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#2*C_dc1322eff60a4a36971896db9eccb90c_1@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -8.669425964355469,
+            "end_logit": -8.953422546386719,
+            "retrieval_logit": -10.424522399902344,
+            "retriever_prob": 0.044166650623083115,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#2*10617746@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -0.07023251801729202,
+            "end_logit": 0.0435168594121933,
+            "retrieval_logit": -2.765925168991089,
+            "retriever_prob": 0.02623273804783821,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#2*58548772@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.317704200744629,
+            "end_logit": -10.445342063903809,
+            "retrieval_logit": -10.592940330505371,
+            "retriever_prob": 0.02528163231909275,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#2*7588632@6"
+        }
+    ],
+    "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#3": [
+        {
+            "text": "On 7 October 2006, Politkovskaya was found shot dead in the elevator of her apartment block in central Moscow.",
+            "start_logit": -10.513837814331055,
+            "end_logit": -10.092759132385254,
+            "retrieval_logit": -10.608288764953613,
+            "retriever_prob": 0.6479604244232178,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#3*7588632@2"
+        },
+        {
+            "text": "One of her last investigations was into the alleged mass poisoning of Chechen schoolchildren by a strong and unknown chemical substance which incapacitated them for many months.",
+            "start_logit": -1.9014954566955566,
+            "end_logit": -2.1214370727539062,
+            "retrieval_logit": -4.39211893081665,
+            "retriever_prob": 0.22125022113323212,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#3*C_dc1322eff60a4a36971896db9eccb90c_1@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -8.911141395568848,
+            "end_logit": -9.272603034973145,
+            "retrieval_logit": -10.486124992370605,
+            "retriever_prob": 0.0524291917681694,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#3*10617746@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -9.656747817993164,
+            "end_logit": -9.937091827392578,
+            "retrieval_logit": -10.623631477355957,
+            "retriever_prob": 0.04295893758535385,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#3*4667@11"
+        },
+        {
+            "text": "The investigation team working on the case of the \"Novokuznetsk Monster\" were initially unsuccessful in capturing Rylkov.",
+            "start_logit": -0.986965000629425,
+            "end_logit": -0.7756077647209167,
+            "retrieval_logit": -2.5446295738220215,
+            "retriever_prob": 0.035400472581386566,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#3*58548772@1"
+        }
+    ],
+    "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#4": [
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.033799171447754,
+            "end_logit": -10.209869384765625,
+            "retrieval_logit": -10.614500045776367,
+            "retriever_prob": 0.658453106880188,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#4*7588632@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -2.300320863723755,
+            "end_logit": -2.243617057800293,
+            "retrieval_logit": -5.675290584564209,
+            "retriever_prob": 0.18563173711299896,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#4*C_dc1322eff60a4a36971896db9eccb90c_1@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -8.627165794372559,
+            "end_logit": -9.031513214111328,
+            "retrieval_logit": -10.33792495727539,
+            "retriever_prob": 0.07141359895467758,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#4*10617746@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -9.195490837097168,
+            "end_logit": -9.537949562072754,
+            "retrieval_logit": -10.530983924865723,
+            "retriever_prob": 0.04595408961176872,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#4*4667@11"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": 1.15774405002594,
+            "end_logit": 1.3259986639022827,
+            "retrieval_logit": -1.3908460140228271,
+            "retriever_prob": 0.03854650259017944,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#4*58548772@1"
+        }
+    ],
+    "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#5": [
+        {
+            "text": "On 7 October 2006, Politkovskaya was found shot dead in the elevator of her apartment block in central Moscow.",
+            "start_logit": -9.886844635009766,
+            "end_logit": -10.164356231689453,
+            "retrieval_logit": -10.493295669555664,
+            "retriever_prob": 0.6544914245605469,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#5*7588632@2"
+        },
+        {
+            "text": "One of her last investigations was into the alleged mass poisoning of Chechen schoolchildren by a strong and unknown chemical substance which incapacitated them for many months.",
+            "start_logit": -0.2285805642604828,
+            "end_logit": -1.544580340385437,
+            "retrieval_logit": -3.0445303916931152,
+            "retriever_prob": 0.17719997465610504,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#5*C_dc1322eff60a4a36971896db9eccb90c_1@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -9.10352897644043,
+            "end_logit": -9.662589073181152,
+            "retrieval_logit": -10.31550121307373,
+            "retriever_prob": 0.08225174993276596,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#5*10617746@2"
+        },
+        {
+            "text": "On the evening of 6 October 1949, Ivinskaya was arrested at her apartment by the KGB.",
+            "start_logit": -9.74567699432373,
+            "end_logit": -10.279505729675293,
+            "retrieval_logit": -10.538540840148926,
+            "retriever_prob": 0.0432521253824234,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#5*4667@11"
+        },
+        {
+            "text": "Rylkov was also suspected in the murders of more than 20 children around the city.",
+            "start_logit": 1.675978422164917,
+            "end_logit": 0.5435003638267517,
+            "retrieval_logit": -0.8732643723487854,
+            "retriever_prob": 0.0428059883415699,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#5*58548772@1"
+        }
+    ],
+    "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#6": [
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.069698333740234,
+            "end_logit": -10.301359176635742,
+            "retrieval_logit": -10.614628791809082,
+            "retriever_prob": 0.5583850741386414,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#6*7588632@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -1.7756527662277222,
+            "end_logit": -1.6965699195861816,
+            "retrieval_logit": -3.5409772396087646,
+            "retriever_prob": 0.23720209300518036,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#6*C_dc1322eff60a4a36971896db9eccb90c_1@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -8.837404251098633,
+            "end_logit": -9.265644073486328,
+            "retrieval_logit": -10.43533992767334,
+            "retriever_prob": 0.11073208600282669,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#6*10617746@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": 0.14035435020923615,
+            "end_logit": 0.3371076285839081,
+            "retrieval_logit": -1.8474555015563965,
+            "retriever_prob": 0.05119630694389343,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#6*58548772@1"
+        },
+        {
+            "text": "On 25 November 2008, it was reported that the murder was ordered by a Russian politician.",
+            "start_logit": -10.342961311340332,
+            "end_logit": -10.381021499633789,
+            "retrieval_logit": -10.5827054977417,
+            "retriever_prob": 0.04248307645320892,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#6*7588632@6"
+        }
+    ],
+    "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#7": [
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -9.799084663391113,
+            "end_logit": -10.035442352294922,
+            "retrieval_logit": -10.618256568908691,
+            "retriever_prob": 0.5172774791717529,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#7*7588632@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -2.5571484565734863,
+            "end_logit": -2.6158790588378906,
+            "retrieval_logit": -4.567194938659668,
+            "retriever_prob": 0.2523549199104309,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#7*C_dc1322eff60a4a36971896db9eccb90c_1@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -9.315638542175293,
+            "end_logit": -9.753267288208008,
+            "retrieval_logit": -10.580881118774414,
+            "retriever_prob": 0.11511767655611038,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#7*10617746@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -0.6415361166000366,
+            "end_logit": -0.547639787197113,
+            "retrieval_logit": -2.602461099624634,
+            "retriever_prob": 0.061783283948898315,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#7*58548772@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.246346473693848,
+            "end_logit": -10.422605514526367,
+            "retrieval_logit": -10.620101928710938,
+            "retriever_prob": 0.05346530303359032,
+            "example_id": "C_0aaa843df0bd467b96e5a496fc0b033d_1_q#7*7588632@6"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#0": [
+        {
+            "text": "Graham left the WWWF in December 1978",
+            "start_logit": 3.1767499446868896,
+            "end_logit": 2.7447280883789062,
+            "retrieval_logit": 0.035124521702528,
+            "retriever_prob": 0.5365718603134155,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#0*C_95a02857a40c472c9e6d8cb7b304fd2b_1@1"
+        },
+        {
+            "text": "By 1990, Graham was an infrequent in-ring competitor and he became a road agent for World Championship Wrestling.",
+            "start_logit": 0.6351997256278992,
+            "end_logit": 1.4462720155715942,
+            "retrieval_logit": -1.7457530498504639,
+            "retriever_prob": 0.29807132482528687,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#0*2340439@1"
+        },
+        {
+            "text": "Graham returned to the WWWF in April 1977 after an agreement with promoter Vincent J. McMahon (Senior).",
+            "start_logit": 8.38986873626709,
+            "end_logit": 10.217121124267578,
+            "retrieval_logit": 6.809256076812744,
+            "retriever_prob": 0.06429053843021393,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#0*C_95a02857a40c472c9e6d8cb7b304fd2b_1@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.432053565979004,
+            "end_logit": -10.419248580932617,
+            "retrieval_logit": -10.586915016174316,
+            "retriever_prob": 0.05071192979812622,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#0*5816272@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -8.026710510253906,
+            "end_logit": -8.228263854980469,
+            "retrieval_logit": -9.947945594787598,
+            "retriever_prob": 0.05035434663295746,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#0*46838388@1"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#1": [
+        {
+            "text": "Graham reached out to apologize to the McMahons, even offering to be a spokesman for Linda McMahon's campaign.",
+            "start_logit": 1.42339026927948,
+            "end_logit": 2.0093865394592285,
+            "retrieval_logit": -1.8149268627166748,
+            "retriever_prob": 0.3567664325237274,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#1*C_95a02857a40c472c9e6d8cb7b304fd2b_0@1"
+        },
+        {
+            "text": "accepted an offer to join Paul Boesch's promotion in Houston, Texas, lending himself out for other NWA events in California and Florida as well.",
+            "start_logit": 3.709313154220581,
+            "end_logit": 3.0812177658081055,
+            "retrieval_logit": -0.3476054072380066,
+            "retriever_prob": 0.26252374053001404,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#1*C_95a02857a40c472c9e6d8cb7b304fd2b_1@1"
+        },
+        {
+            "text": "an agreement with promoter Vincent J. McMahon (Senior).",
+            "start_logit": 9.932357788085938,
+            "end_logit": 10.872795104980469,
+            "retrieval_logit": 8.0585355758667,
+            "retriever_prob": 0.1649022400379181,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#1*C_95a02857a40c472c9e6d8cb7b304fd2b_1@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": 0.8676286935806274,
+            "end_logit": 1.0425429344177246,
+            "retrieval_logit": -3.411818265914917,
+            "retriever_prob": 0.13539260625839233,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#1*2340439@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -0.20930889248847961,
+            "end_logit": 0.008364244364202023,
+            "retrieval_logit": -3.4670698642730713,
+            "retriever_prob": 0.0804160013794899,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#1*C_ccb16be9d3d244119510ceb23600344e_1@3"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#2": [
+        {
+            "text": "Rhodes himself, a long-time friend of Graham's, recalled these matches with Graham in 1978 as among the most exciting and memorable of his career.",
+            "start_logit": 0.838249146938324,
+            "end_logit": 1.9774014949798584,
+            "retrieval_logit": -1.4193124771118164,
+            "retriever_prob": 0.30898773670196533,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#2*C_95a02857a40c472c9e6d8cb7b304fd2b_1@1"
+        },
+        {
+            "text": "Graham received criticism from fans due to his timing and opportunism.",
+            "start_logit": 1.0523812770843506,
+            "end_logit": 0.3010868728160858,
+            "retrieval_logit": -3.222230911254883,
+            "retriever_prob": 0.3042762279510498,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#2*C_95a02857a40c472c9e6d8cb7b304fd2b_0@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": 0.6703290343284607,
+            "end_logit": 0.8333572745323181,
+            "retrieval_logit": -3.4786694049835205,
+            "retriever_prob": 0.1820482313632965,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#2*2340439@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.351716041564941,
+            "end_logit": -10.394254684448242,
+            "retrieval_logit": -10.629568099975586,
+            "retriever_prob": 0.10426431894302368,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#2*8938591@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": 8.099069595336914,
+            "end_logit": 8.256832122802734,
+            "retrieval_logit": 5.618298053741455,
+            "retriever_prob": 0.10042160004377365,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#2*C_95a02857a40c472c9e6d8cb7b304fd2b_1@0"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#3": [
+        {
+            "text": "He spent some time competing in Japan, where he added some martial arts techniques to his repertoire.",
+            "start_logit": 4.124016284942627,
+            "end_logit": 3.7448718547821045,
+            "retrieval_logit": 0.7640135288238525,
+            "retriever_prob": 0.48648250102996826,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#3*C_95a02857a40c472c9e6d8cb7b304fd2b_1@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -3.6511669158935547,
+            "end_logit": -3.817365884780884,
+            "retrieval_logit": -7.250552177429199,
+            "retriever_prob": 0.16996359825134277,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#3*2340439@1"
+        },
+        {
+            "text": "Graham defeated Bruno Sammartino for the WWWF Heavyweight Championship on April 30, 1977, in Baltimore, Maryland.",
+            "start_logit": 8.967803955078125,
+            "end_logit": 7.496448993682861,
+            "retrieval_logit": 5.398055553436279,
+            "retriever_prob": 0.15396282076835632,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#3*C_95a02857a40c472c9e6d8cb7b304fd2b_1@0"
+        },
+        {
+            "text": "He sold his Hall of Fame ring on eBay to help pay for medical bills and requested that he be entirely removed from the Hall of Fame after Abdullah The Butcher was inducted.",
+            "start_logit": -5.396149635314941,
+            "end_logit": -6.410909175872803,
+            "retrieval_logit": -8.9419584274292,
+            "retriever_prob": 0.13816730678081512,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#3*C_95a02857a40c472c9e6d8cb7b304fd2b_0@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.204258918762207,
+            "end_logit": -10.279293060302734,
+            "retrieval_logit": -10.654471397399902,
+            "retriever_prob": 0.05142296478152275,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#3*8938591@2"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#4": [
+        {
+            "text": "In March 1979, the new Continental Wrestling Association (CWA) named Graham as their World Champion.",
+            "start_logit": 1.7624149322509766,
+            "end_logit": 2.117333173751831,
+            "retrieval_logit": -0.15867219865322113,
+            "retriever_prob": 0.40131765604019165,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#4*C_95a02857a40c472c9e6d8cb7b304fd2b_1@1"
+        },
+        {
+            "text": "Graham received criticism from fans due to his timing and opportunism.",
+            "start_logit": -3.7748255729675293,
+            "end_logit": -4.356839179992676,
+            "retrieval_logit": -8.163460731506348,
+            "retriever_prob": 0.21152876317501068,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#4*C_95a02857a40c472c9e6d8cb7b304fd2b_0@1"
+        },
+        {
+            "text": "defeat the team of Ron Bass, Larry Zbyszko, The Masked Superstar, and Gary Royal in an eight-man tag team elimination match",
+            "start_logit": -4.119595050811768,
+            "end_logit": -4.366880416870117,
+            "retrieval_logit": -7.589334964752197,
+            "retriever_prob": 0.16737323999404907,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#4*2340439@1"
+        },
+        {
+            "text": "a defeat by Bob Backlund,",
+            "start_logit": 8.818017959594727,
+            "end_logit": 9.172242164611816,
+            "retrieval_logit": 5.97420072555542,
+            "retriever_prob": 0.15716904401779175,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#4*C_95a02857a40c472c9e6d8cb7b304fd2b_1@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.216984748840332,
+            "end_logit": -10.307337760925293,
+            "retrieval_logit": -10.653533935546875,
+            "retriever_prob": 0.06261108070611954,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#4*8938591@2"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#5": [
+        {
+            "text": "He sold his Hall of Fame ring on eBay to help pay for medical bills and requested that he be entirely removed from the Hall of Fame after Abdullah The Butcher was inducted.",
+            "start_logit": -3.1440517902374268,
+            "end_logit": -3.5543293952941895,
+            "retrieval_logit": -5.844962120056152,
+            "retriever_prob": 0.44259604811668396,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#5*C_95a02857a40c472c9e6d8cb7b304fd2b_0@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -4.622054100036621,
+            "end_logit": -4.887284755706787,
+            "retrieval_logit": -8.394834518432617,
+            "retriever_prob": 0.18052750825881958,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#5*2340439@1"
+        },
+        {
+            "text": "Graham wrestled only two matches (one in Canada and one in Los Angeles) in the whole of 1981. He spent some time competing in Japan, where he added some martial arts techniques to his repertoire.",
+            "start_logit": -0.09625698626041412,
+            "end_logit": -0.6461560130119324,
+            "retrieval_logit": -2.33191180229187,
+            "retriever_prob": 0.15485164523124695,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#5*C_95a02857a40c472c9e6d8cb7b304fd2b_1@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -4.178234100341797,
+            "end_logit": -4.403448581695557,
+            "retrieval_logit": -6.74158239364624,
+            "retriever_prob": 0.11720874160528183,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#5*2340341@1"
+        },
+        {
+            "text": "During his reign, he wrestled across America and in Japan (February 1978),",
+            "start_logit": 5.810985565185547,
+            "end_logit": 5.331373691558838,
+            "retrieval_logit": 4.062544345855713,
+            "retriever_prob": 0.10481543838977814,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#5*C_95a02857a40c472c9e6d8cb7b304fd2b_1@0"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#6": [
+        {
+            "text": "was inducted into the WWE Hall of Fame class of 2013.",
+            "start_logit": -4.186450004577637,
+            "end_logit": -2.643129348754883,
+            "retrieval_logit": -6.646242141723633,
+            "retriever_prob": 0.40038642287254333,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#6*C_95a02857a40c472c9e6d8cb7b304fd2b_0@1"
+        },
+        {
+            "text": "In March 1979, the new Continental Wrestling Association (CWA) named Graham as their World Champion.",
+            "start_logit": 2.1942338943481445,
+            "end_logit": 2.3444936275482178,
+            "retrieval_logit": -0.8055210113525391,
+            "retriever_prob": 0.21339283883571625,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#6*C_95a02857a40c472c9e6d8cb7b304fd2b_1@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -4.7423882484436035,
+            "end_logit": -5.141781806945801,
+            "retrieval_logit": -8.634209632873535,
+            "retriever_prob": 0.15554016828536987,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#6*2340439@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": 6.672870635986328,
+            "end_logit": 6.859030723571777,
+            "retrieval_logit": 4.612377643585205,
+            "retriever_prob": 0.14608581364154816,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#6*C_95a02857a40c472c9e6d8cb7b304fd2b_1@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -4.876997470855713,
+            "end_logit": -5.510350704193115,
+            "retrieval_logit": -8.40965747833252,
+            "retriever_prob": 0.08459572494029999,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_1_q#6*2340341@1"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#0": [
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -9.052096366882324,
+            "end_logit": -9.346046447753906,
+            "retrieval_logit": -10.429627418518066,
+            "retriever_prob": 0.270551472902298,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#0*46838388@1"
+        },
+        {
+            "text": "He's asked me to do some things, and I\u2019ve asked him to do some things in return\".",
+            "start_logit": -10.837998390197754,
+            "end_logit": -10.305968284606934,
+            "retrieval_logit": -10.466285705566406,
+            "retriever_prob": 0.2131422609090805,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#0*363279@9"
+        },
+        {
+            "text": "On 3 August 2006 the United States Olympic Committee banned Graham from its training facilities.",
+            "start_logit": -3.681821346282959,
+            "end_logit": -2.740446090698242,
+            "retrieval_logit": -6.865545272827148,
+            "retriever_prob": 0.18407124280929565,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#0*5308587@2"
+        },
+        {
+            "text": "Graham has been involved in various controversies over his career.",
+            "start_logit": -2.7626657485961914,
+            "end_logit": -2.5620031356811523,
+            "retrieval_logit": -7.661022663116455,
+            "retriever_prob": 0.17153334617614746,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#0*1058454@2"
+        },
+        {
+            "text": "Graham had a meeting with Trump.",
+            "start_logit": -10.882906913757324,
+            "end_logit": -10.372617721557617,
+            "retrieval_logit": -10.419150352478027,
+            "retriever_prob": 0.16070114076137543,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#0*363279@8"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#1": [
+        {
+            "text": "Graham made the official announcement of his candidacy for President on June 1, 2015, in his home town of Central, South Carolina.",
+            "start_logit": -9.95071792602539,
+            "end_logit": -10.062461853027344,
+            "retrieval_logit": -10.559037208557129,
+            "retriever_prob": 0.24822936952114105,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#1*46838388@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.518855094909668,
+            "end_logit": -10.501559257507324,
+            "retrieval_logit": -10.550187110900879,
+            "retriever_prob": 0.22885937988758087,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#1*363279@9"
+        },
+        {
+            "text": "Graham has been involved in various controversies over his career.",
+            "start_logit": -2.9227466583251953,
+            "end_logit": -2.972344160079956,
+            "retrieval_logit": -7.436434268951416,
+            "retriever_prob": 0.19499583542346954,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#1*1058454@2"
+        },
+        {
+            "text": "Anti-Doping Agency decides not to take action. On 3 August 2006 the United States Olympic Committee banned Graham from its training facilities.",
+            "start_logit": -3.339509963989258,
+            "end_logit": -3.2169010639190674,
+            "retrieval_logit": -6.643434524536133,
+            "retriever_prob": 0.17094674706459045,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#1*5308587@2"
+        },
+        {
+            "text": "Graham instead voted for independent candidate Evan McMullin. In March 2017, Graham had a meeting with Trump.",
+            "start_logit": -10.852625846862793,
+            "end_logit": -10.296274185180664,
+            "retrieval_logit": -10.4872407913208,
+            "retriever_prob": 0.15696892142295837,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#1*363279@8"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#2": [
+        {
+            "text": "In 2011, Graham filed an unsuccessful $30 million slander lawsuit against USADA.",
+            "start_logit": 0.5462768077850342,
+            "end_logit": 0.9581684470176697,
+            "retrieval_logit": -3.445816993713379,
+            "retriever_prob": 0.3859125077724457,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#2*5308587@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.486308097839355,
+            "end_logit": -10.49407958984375,
+            "retrieval_logit": -10.585148811340332,
+            "retriever_prob": 0.2705617845058441,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#2*363279@9"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -7.275671005249023,
+            "end_logit": -7.800491809844971,
+            "retrieval_logit": -10.11451244354248,
+            "retriever_prob": 0.18901735544204712,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#2*46838388@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.488560676574707,
+            "end_logit": -10.499491691589355,
+            "retrieval_logit": -10.583970069885254,
+            "retriever_prob": 0.10689211636781693,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#2*363279@8"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.507773399353027,
+            "end_logit": -10.584912300109863,
+            "retrieval_logit": -10.56857967376709,
+            "retriever_prob": 0.04761510342359543,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#2*363279@10"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#3": [
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.449651718139648,
+            "end_logit": -10.431798934936523,
+            "retrieval_logit": -10.601487159729004,
+            "retriever_prob": 0.33407244086265564,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#3*363279@9"
+        },
+        {
+            "text": "In 2011, Graham filed an unsuccessful $30 million slander lawsuit against USADA.",
+            "start_logit": -1.40662682056427,
+            "end_logit": -1.286522388458252,
+            "retrieval_logit": -4.907664775848389,
+            "retriever_prob": 0.3279522657394409,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#3*5308587@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -9.884576797485352,
+            "end_logit": -10.181774139404297,
+            "retrieval_logit": -10.621296882629395,
+            "retriever_prob": 0.168778657913208,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#3*46838388@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.480982780456543,
+            "end_logit": -10.493377685546875,
+            "retrieval_logit": -10.590107917785645,
+            "retriever_prob": 0.11703404784202576,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#3*363279@8"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.364741325378418,
+            "end_logit": -10.412264823913574,
+            "retrieval_logit": -10.620003700256348,
+            "retriever_prob": 0.05216127634048462,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#3*363279@10"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#4": [
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.403246879577637,
+            "end_logit": -10.389087677001953,
+            "retrieval_logit": -10.61479663848877,
+            "retriever_prob": 0.3459600806236267,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#4*363279@9"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -9.70995044708252,
+            "end_logit": -9.950891494750977,
+            "retrieval_logit": -10.629629135131836,
+            "retriever_prob": 0.24676784873008728,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#4*46838388@1"
+        },
+        {
+            "text": "Graham filed an unsuccessful $30 million slander lawsuit against USADA.",
+            "start_logit": -3.5421066284179688,
+            "end_logit": -2.6715407371520996,
+            "retrieval_logit": -6.981948375701904,
+            "retriever_prob": 0.21124975383281708,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#4*5308587@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.353686332702637,
+            "end_logit": -10.381574630737305,
+            "retrieval_logit": -10.627934455871582,
+            "retriever_prob": 0.14621403813362122,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#4*363279@8"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.360057830810547,
+            "end_logit": -10.408154487609863,
+            "retrieval_logit": -10.6235933303833,
+            "retriever_prob": 0.04980948567390442,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#4*363279@10"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#5": [
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.314541816711426,
+            "end_logit": -10.355319023132324,
+            "retrieval_logit": -10.632194519042969,
+            "retriever_prob": 0.36585021018981934,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#5*363279@9"
+        },
+        {
+            "text": "In 2011, Graham filed an unsuccessful $30 million slander lawsuit against USADA.",
+            "start_logit": -3.015583038330078,
+            "end_logit": -2.8385937213897705,
+            "retrieval_logit": -6.143954753875732,
+            "retriever_prob": 0.30317091941833496,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#5*5308587@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -9.78386402130127,
+            "end_logit": -10.065433502197266,
+            "retrieval_logit": -10.630139350891113,
+            "retriever_prob": 0.17706888914108276,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#5*46838388@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.339378356933594,
+            "end_logit": -10.380973815917969,
+            "retrieval_logit": -10.63162899017334,
+            "retriever_prob": 0.10907233506441116,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#5*363279@8"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.34875202178955,
+            "end_logit": -10.476789474487305,
+            "retrieval_logit": -10.613525390625,
+            "retriever_prob": 0.04483804851770401,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#5*363279@10"
+        }
+    ],
+    "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#6": [
+        {
+            "text": "He is reportedly still trying to get back into coaching as of 2016.",
+            "start_logit": -1.4082289934158325,
+            "end_logit": -0.7878782749176025,
+            "retrieval_logit": -4.946877956390381,
+            "retriever_prob": 0.42385005950927734,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#6*5308587@2"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.311805725097656,
+            "end_logit": -10.40192985534668,
+            "retrieval_logit": -10.621947288513184,
+            "retriever_prob": 0.3118557631969452,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#6*363279@9"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -6.567052364349365,
+            "end_logit": -7.044399261474609,
+            "retrieval_logit": -9.730178833007812,
+            "retriever_prob": 0.14770185947418213,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#6*46838388@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.376982688903809,
+            "end_logit": -10.414873123168945,
+            "retrieval_logit": -10.62222957611084,
+            "retriever_prob": 0.08255226165056229,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#6*363279@8"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.270833015441895,
+            "end_logit": -10.318150520324707,
+            "retrieval_logit": -10.64855670928955,
+            "retriever_prob": 0.03403819724917412,
+            "example_id": "C_95a02857a40c472c9e6d8cb7b304fd2b_0_q#6*363279@20"
+        }
+    ],
+    "C_01e52333288f47fcb1e611c5385ffe29_1_q#0": [
+        {
+            "text": "The Plague started out in October 1982 as a three-person band.",
+            "start_logit": -9.467231750488281,
+            "end_logit": -9.931723594665527,
+            "retrieval_logit": -10.470036506652832,
+            "retriever_prob": 0.31397271156311035,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#0*21257684@0"
+        },
+        {
+            "text": "The American Plague has released four music videos, the most recent being \"Leviathan,\" released in May 2011.",
+            "start_logit": -8.501256942749023,
+            "end_logit": -9.380892753601074,
+            "retrieval_logit": -10.381296157836914,
+            "retriever_prob": 0.2494044303894043,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#0*19687550@1"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.53585433959961,
+            "end_logit": -10.525064468383789,
+            "retrieval_logit": -10.49587345123291,
+            "retriever_prob": 0.18574224412441254,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#0*49509473@0"
+        },
+        {
+            "text": "Alexander disbanded the Malignmen in 1999 and left the Undead to form The American Plague in 2001.",
+            "start_logit": -10.216212272644043,
+            "end_logit": -10.257810592651367,
+            "retrieval_logit": -10.414658546447754,
+            "retriever_prob": 0.15940645337104797,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#0*19687550@0"
+        },
+        {
+            "text": "Spreading the Disease\" had excellent sound and production and recommended the album for fans of thrash metal.",
+            "start_logit": -10.17866325378418,
+            "end_logit": -10.407248497009277,
+            "retrieval_logit": -10.61279010772705,
+            "retriever_prob": 0.09147293120622635,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#0*146675@2"
+        }
+    ],
+    "C_01e52333288f47fcb1e611c5385ffe29_1_q#1": [
+        {
+            "text": "Samuel Pepys' diary makes a number of references to his first-hand experiences of the Great Plague of London in 1665-6.",
+            "start_logit": -3.5391836166381836,
+            "end_logit": -3.578230142593384,
+            "retrieval_logit": -4.616304874420166,
+            "retriever_prob": 0.338095486164093,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#1*16392927@7"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.515433311462402,
+            "end_logit": -10.543594360351562,
+            "retrieval_logit": -10.5414457321167,
+            "retriever_prob": 0.20229887962341309,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#1*33390780@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.369477272033691,
+            "end_logit": -10.391838073730469,
+            "retrieval_logit": -10.609770774841309,
+            "retriever_prob": 0.18385544419288635,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#1*3504243@0"
+        },
+        {
+            "text": "The first mention of a plague of gangrenous ergotism in Europe comes from Germany in 857, following this France and Scandinavia experienced similar outbreaks;",
+            "start_logit": 1.0752919912338257,
+            "end_logit": 0.9225494265556335,
+            "retrieval_logit": -0.32062843441963196,
+            "retriever_prob": 0.17668698728084564,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#1*262925@7"
+        },
+        {
+            "text": "Well poisoning Well-poisoning is the act of malicious manipulation of potable water resources in order to cause illness or death, or to deny an opponent access to fresh water resources.",
+            "start_logit": -8.83687973022461,
+            "end_logit": -8.994953155517578,
+            "retrieval_logit": -10.455037117004395,
+            "retriever_prob": 0.09906139224767685,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#1*1179505@0"
+        }
+    ],
+    "C_01e52333288f47fcb1e611c5385ffe29_1_q#2": [
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -2.6706149578094482,
+            "end_logit": -2.6567444801330566,
+            "retrieval_logit": -6.817614555358887,
+            "retriever_prob": 0.3704155683517456,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#2*16392927@7"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.428154945373535,
+            "end_logit": -10.481620788574219,
+            "retrieval_logit": -10.578756332397461,
+            "retriever_prob": 0.2154335379600525,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#2*33390780@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -9.236424446105957,
+            "end_logit": -9.662099838256836,
+            "retrieval_logit": -10.592206001281738,
+            "retriever_prob": 0.1724604368209839,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#2*1179505@0"
+        },
+        {
+            "text": "CANNOTANSWER",
+            "start_logit": -10.385198593139648,
+            "end_logit": -10.405762672424316,
+            "retrieval_logit": -10.605435371398926,
+            "retriever_prob": 0.15504463016986847,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#2*3504243@0"
+        },
+        {
+            "text": "Crowded cities were especially hard hit by the disease, with death tolls as high as 50% of the population.",
+            "start_logit": -9.594308853149414,
+            "end_logit": -9.73177719116211,
+            "retrieval_logit": -10.611321449279785,
+            "retriever_prob": 0.0866444855928421,
+            "example_id": "C_01e52333288f47fcb1e611c5385ffe29_1_q#2*1179505@1"
+        }
+    ]
+}

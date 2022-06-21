@@ -850,7 +850,7 @@ if args.fp16:
 
 logger.info(f'loading passage ids from {args.passage_ids_path}')
 with open(args.passage_ids_path, 'rb') as handle:
-    passage_ids = json.load(handle)
+    passage_ids = pkl.load(handle)
 
 logger.info(f'loading passage reps from {args.passage_reps_path}')
 with open(args.passage_reps_path, 'rb') as handle:
@@ -865,6 +865,7 @@ if torch.cuda.is_available():
 else:
     index = faiss.IndexFlatIP(args.proj_size)
     index.add(passage_reps)
+    gpu_index = index
 
 
 # logger.info(f'loading all blocks from {args.blocks_path}')
