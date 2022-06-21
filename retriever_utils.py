@@ -112,7 +112,7 @@ class RetrieverDataset(Dataset):
         
         self._total_data = 0      
         if self._load_small:
-            self._total_data = 50
+            self._total_data = 100
         else:
             with open(filename, "r") as f:
                 self._total_data = len(f.readlines())

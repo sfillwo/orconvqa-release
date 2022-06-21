@@ -655,17 +655,17 @@ def convert_example_to_feature(example, tokenizer, max_seq_length=512,
 
 
 def gen_reader_features(qids, question_texts, answer_texts, answer_starts, passage_ids,
-                        passages, all_retrieval_labels, reader_tokenizer, max_seq_length, is_training=False):
+                        passages, reader_tokenizer, max_seq_length, is_training=False):
     # print('all_retrieval_labels', all_retrieval_labels, type(all_retrieval_labels))
     batch_features = []
     all_examples, all_features = {}, {}
     for (qas_id, question_text, answer_text, answer_start, pids_per_query,
-         paragraph_texts, retrieval_labels) in zip(qids, question_texts, answer_texts, answer_starts, 
-                                                   passage_ids, passages, all_retrieval_labels):
+         paragraph_texts) in zip(qids, question_texts, answer_texts, answer_starts,
+                                                   passage_ids, passages):
         # print('retrieval_labels', retrieval_labels)
         per_query_features = []
-        for i, (pid, paragraph_text, retrieval_label) in enumerate(zip(pids_per_query, paragraph_texts, retrieval_labels)):
-            # print('retrieval_label', retrieval_label)
+        for i, (pid, paragraph_text) in enumerate(zip(pids_per_query, paragraph_texts)):
+            retrieval_label = 1
             example_id = f'{qas_id}*{pid}'
             doc_tokens = []
             char_to_word_offset = []
@@ -735,29 +735,7 @@ def gen_reader_features(qids, question_texts, answer_texts, answer_starts, passa
                 all_examples[example_id] = example
                 all_features[example_id] = feature
 
-            if is_training:
-                if retrieval_label:
-                    per_query_feature = {'input_ids': np.asarray(feature.input_ids),
-                                     'segment_ids': np.asarray(feature.segment_ids),
-                                     'input_mask': np.asarray(feature.input_mask),
-                                     # 'cls_index': feature.cls_index,
-                                     # 'p_mask': feature.p_mask,
-                                     # the true passge might be at any position
-                                     'start_position': feature.start_position + i * max_seq_length,
-                                     'end_position': feature.end_position + i * max_seq_length,
-                                     'retrieval_label': feature.retrieval_label}
-
-                else:
-                    per_query_feature = {'input_ids': np.asarray(feature.input_ids),
-                                     'segment_ids': np.asarray(feature.segment_ids),
-                                     'input_mask': np.asarray(feature.input_mask),
-                                     # 'cls_index': feature.cls_index,
-                                     # 'p_mask': feature.p_mask,
-                                     'start_position': -1,
-                                     'end_position': -1,
-                                     'retrieval_label': feature.retrieval_label}
-            else:
-                per_query_feature = {'input_ids': np.asarray(feature.input_ids),
+            per_query_feature = {'input_ids': np.asarray(feature.input_ids),
                                  'segment_ids': np.asarray(feature.segment_ids),
                                  'input_mask': np.asarray(feature.input_mask),
                                  # 'cls_index': feature.cls_index,
