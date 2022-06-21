@@ -848,13 +848,16 @@ if args.fp16:
         raise ImportError(
             "Please install apex from https://www.github.com/nvidia/apex to use fp16 training.")
 
+k = 1000
 logger.info(f'loading passage ids from {args.passage_ids_path}')
 with open(args.passage_ids_path, 'rb') as handle:
-    passage_ids = json.load(handle)
+    passage_ids = json.load(handle)["ids"][:k]
+    passage_ids = np.asarray(passage_ids)
 
 logger.info(f'loading passage reps from {args.passage_reps_path}')
 with open(args.passage_reps_path, 'rb') as handle:
-    passage_reps = pkl.load(handle)
+    passage_reps = pkl.load(handle)[:k]
+
 
 logger.info('constructing passage faiss_index')
 if torch.cuda.is_available():
@@ -865,6 +868,7 @@ if torch.cuda.is_available():
 else:
     index = faiss.IndexFlatIP(args.proj_size)
     index.add(passage_reps)
+    gpu_index = index
 
 
 # logger.info(f'loading all blocks from {args.blocks_path}')
@@ -879,6 +883,8 @@ with open(args.qrels) as handle:
 passage_id_to_idx = {}
 for i, pid in enumerate(passage_ids):
     passage_id_to_idx[pid] = i
+
+#todo remove all things related to evaluation!!!
 
 qrels_data, qrels_row_idx, qrels_col_idx = [], [], []
 qid_to_idx = {}
